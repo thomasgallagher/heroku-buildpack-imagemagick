@@ -5,6 +5,9 @@ This is a [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks) fo
 
 This one actually works :)
 
+### CVE-2022-44268
+Default version updated to 7.1.0-61 to patch the zero day vulnerabilities identified here: https://github.com/voidz0r/CVE-2022-44268
+
 ### Install
 
 In your project root:
