@@ -12,7 +12,7 @@ Default version updated to 7.1.0-61 to patch the zero day vulnerabilities identi
 
 In your project root:
 
-`heroku buildpacks:add https://github.com/DuckyTeam/heroku-buildpack-imagemagick  --index 1 --app HEROKU_APP_NAME`
+`heroku buildpacks:add https://github.com/thomasgallagher/heroku-buildpack-imagemagick  --index 1 --app HEROKU_APP_NAME`
 
 "index 1" means that imagemagick will be installed first.
 
